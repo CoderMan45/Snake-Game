@@ -193,6 +193,7 @@ screen = pygame.display.set_mode((cell_number * cell_size,cell_number * cell_siz
 clock = pygame.time.Clock()
 apple = pygame.image.load('Graphics/apple.png').convert_alpha()
 game_font = pygame.font.Font('Font/PoetsenOne-Regular.ttf', 25)
+pygame.display.set_caption('Snake')
 
 
 SCREEN_UPDATE = pygame.USEREVENT
