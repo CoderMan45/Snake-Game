@@ -5,4 +5,4 @@ Used PyGame to create a rendition of the popular 'Snake' game.
 
 Screenshots:
 
-![Snake](snake.png)
+![Snake]("https://imgur.com/kLOzVAi")
