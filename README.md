@@ -5,4 +5,4 @@ Used PyGame to create a rendition of the popular 'Snake' game.
 
 Screenshots:
 
-![Snake]("C:\Users\iamut\Pictures\snake.png")
+![Snake]("D:\Projects\Snake-Pygame\snake.png")
