@@ -6,4 +6,4 @@ Reference video: https://www.youtube.com/watch?v=QFvqStqPCRU
 
 Screenshot:
 
-![snake](https://github.com/CoderMan45/Snake-Game/assets/96254097/940d6fe2-2f27-47d8-b757-87a6b8424b66)
+![snake_game2](https://github.com/CoderMan45/Snake-Game/assets/96254097/2bb5f849-3ef8-40a9-9249-08975e26ef41)
